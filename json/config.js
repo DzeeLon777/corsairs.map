@@ -16,7 +16,7 @@
 	"KofiLink": false,
 	"NodesPerAxis": 30,
 	"PathFinder": false,
-	"PinTool": true,
+	"PinTool": false,
 	"ServersX": 5,
 	"ServersY": 5,
 	"WarehouseTool": false,
